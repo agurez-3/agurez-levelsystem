@@ -1,4 +1,4 @@
-# GMod Level System (Clientside Edited Version)
+# Agurez Level System
 
 This is a edited version of the Luctus Levelsystem system originally created by **(Overlordakise)**.  
 The core system remains unchanged server-side, while the client-side code has been improved for better UI behavior, responsiveness, and compatibility with modern GMod clients.
